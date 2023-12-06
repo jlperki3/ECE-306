@@ -2,8 +2,7 @@
 //
 //  Description: This file contains the Clock Initialization
 //
-//  Jim Carlson
-//  Jan 2021
+//  Josh Perkins
 //  Built with TI Code Composer Studio 12.2.0
 // ------------------------------------------------------------------------------
 #include  "functions.h"
